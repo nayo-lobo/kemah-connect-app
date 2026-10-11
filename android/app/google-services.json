@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237578910171",
+    "project_id": "web-app-kemah-airnona",
+    "storage_bucket": "web-app-kemah-airnona.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237578910171:android:9540c9e508baf9c61c0ffe",
+        "android_client_info": {
+          "package_name": "com.example.gmit_jemaat_kemah_airnona_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCa-f1zy6ajtCnaODWOma_yJI_FVs_hRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237578910171:android:ab027b3011ba18021c0ffe",
+        "android_client_info": {
+          "package_name": "com.simon.sma3kupang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCa-f1zy6ajtCnaODWOma_yJI_FVs_hRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
